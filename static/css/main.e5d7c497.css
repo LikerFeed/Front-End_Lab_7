@@ -1,0 +1,2 @@
+.goods{display:flex;flex-wrap:wrap;gap:20px;justify-content:space-between}.goods-card{align-items:center;display:flex;flex-direction:column;justify-content:center}.goods-card *{margin:0;padding:0}.goods-card img{height:120px;margin-bottom:20px;object-fit:cover}.goods-card h3{color:#31c0ef;font-size:20px;margin-bottom:10px;position:relative}.goods-card h3:before{background:#31c0ef;content:"";height:100%;left:-20px;position:absolute;width:10px}
+/*# sourceMappingURL=main.e5d7c497.css.map*/
